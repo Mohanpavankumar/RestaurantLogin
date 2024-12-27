@@ -1,6 +1,6 @@
 # Restaurant Management System
 
-This is a simple web application for handling payment operations in a KFC restaurant, included only frontntend. The application allows users to input payment details such as the amount, cardholder name, card number, expiry date, and security code. Upon successful submission, it redirects users to a success page indicating that the payment was successful. 
+This is a simple web application for handling payment operations in a KFC restaurant, included only frontntend. The application allows users to input payment details such as the amount, cardholder name, card number, expiry date, and security code. 
 
 ---
 
