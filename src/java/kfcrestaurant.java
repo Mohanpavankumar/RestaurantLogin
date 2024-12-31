@@ -3,22 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 import java.io.IOException;
 import java.io.PrintWriter;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-
 /**
  *
  * @author mohan
  */
 public class kfcrestaurant extends HttpServlet {
-
     /**
-     * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
+     *Processes requests for both HTTP <code>GET</code> and <code>POST</code>
      * methods.
      *
      * @param request servlet request
@@ -429,7 +426,6 @@ public class kfcrestaurant extends HttpServlet {
             throws ServletException, IOException {
         processRequest(request, response);
     }
-
     /**
      * Returns a short description of the servlet.
      *
@@ -438,5 +434,4 @@ public class kfcrestaurant extends HttpServlet {
     public String getServletInfo() {
         return "Short description";
     }
-
 }
