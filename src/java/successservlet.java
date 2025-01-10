@@ -31,7 +31,7 @@ public class successservlet extends HttpServlet {
 "            text-align: center;\n" +
 "        }\n" +
 "    </style>");
-            out.println("<body style='background-color:black'>\n" +
+            out.println("<body style='background-color:black; color: green'>\n" +
 "    <h1>Payment Successful</h1>\n" +
 "</body>");
             out.println("</html>");
