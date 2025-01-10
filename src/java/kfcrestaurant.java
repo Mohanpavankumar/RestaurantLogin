@@ -38,12 +38,10 @@ public class kfcrestaurant extends HttpServlet {
 "            font-family: Verdana, Geneva, Tahoma, sans-serif;\n" +
 "            font-size: 30px;\n" +
 "            font-weight: bold;\n" +
-"            color: yellow;\n" +
-"\n" +
+"            color: yellow;\n" + "\n" +
 "        }\n" +
 "        .a2{\n" +
-"            border-radius: 3px;\n" +
-"\n" +
+"            border-radius: 3px;\n" + "\n" +
 "        }\n" +
 "        .a3{\n" +
 "            \n" +
@@ -57,8 +55,7 @@ public class kfcrestaurant extends HttpServlet {
 "        }\n" +
 "        .a5{\n" +
 "            border: 3px solid greenyellow;\n" +
-"            border-radius: 3px;\n" +
-"\n" +
+"            border-radius: 3px;\n" + "\n" +
 "        }\n" +
 "        .a7{\n" +
 "            float:left;\n" +
