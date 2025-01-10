@@ -22,8 +22,7 @@ public class paymentservlet extends HttpServlet {
 "        h1{\n" +
 "            text-align: center;\n" +
 "            color: red;\n" +
-"            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;\n" +
-"\n" +
+"            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;\n" +"\n" +
 "        }\n" +
 "        body{\n" +
 "            background-color: yellow;\n" +
@@ -68,8 +67,7 @@ public class paymentservlet extends HttpServlet {
 "        <tr>\n" +
 "            <td>\n" +
 "                <td class=\"a1\"><a href=\"successservlet\"><input type=\"submit\"></td></td>\n" +
-"            </td>\n" +
-"\n" +
+"            </td>\n" + "\n" +
 "        </tr>\n" +
 "    </table>\n" +
 "</body>");
