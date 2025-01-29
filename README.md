@@ -19,16 +19,16 @@ The project consists of the following files:
 ## Features
 
 1. **Payment Form**:
-   - Inputs for amount, cardholder name, card number, expiry date, and security code.
-   - Styled with inline CSS for a simple user interface.
+ - Inputs for amount, cardholder name, card number, expiry date, and security code.
+ - Styled with inline CSS for a simple user interface.
 
 2. **Success Page**:
-   - Displays a confirmation message after payment submission.
-   - Styled with a black background and centered blue text.
+ - Displays a confirmation message after payment submission.
+ - Styled with a black background and centered blue text.
 
 3. **Servlets**:
-   - `paymentservlet`: Generates and serves the payment form dynamically.
-   - `successservlet`: Displays the payment success page.
+ - `paymentservlet`: Generates and serves the payment form dynamically.
+ - `successservlet`: Displays the payment success page.
 
 ---
 
